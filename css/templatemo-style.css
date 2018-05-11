@@ -284,6 +284,8 @@ body {
 /* Footer */
 .tm-black-bg {
 	background-color: #2D2D2D;
+	position: absolute;
+	bottom: 0px;
 }
 .tm-copyright-text {
 	color: white;
